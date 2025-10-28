@@ -1,0 +1,36 @@
+# ===================================
+# OS & Editor junk
+# ===================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.log
+
+# VS Code settings
+.vscode/
+
+# ===================================
+# Node.js / JavaScript
+# ===================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# build / dist directories
+dist/
+build/
+coverage/
+.cache/
+.next/
+out/
+tmp/
+
+# Environment files (you might want to keep these secret)
+.env
