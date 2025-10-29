@@ -34,3 +34,4 @@ tmp/
 
 # Environment files (you might want to keep these secret)
 .env
+dump.rdb
