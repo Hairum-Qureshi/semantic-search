@@ -1,734 +1,317 @@
 [
-    {
-      "Question": "How do I request an admissions deferment when I cannot attend during my expected enrollment term?",
-      "Answer": "Submit your admission deferral request to the CIS Graduate Academic Advisor II for review.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "When does course registration open for the Fall, Spring, Summer and Winter semester?",
-      "Answer": "Refer to academic calendar for most up-to-date deadlines.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What should I do if the course I want is full?",
-      "Answer": "Add to waitlist.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What is the process for auditing a course?",
-      "Answer": "Please check with the academic advisor for details on course auditing.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "Do I need special permission to register for CISC890 NEW Graduate Colloquium?",
-      "Answer": "Yes, contact CIS Graduate Academic Advisor II to register for course.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "When do I enroll in CIS 890 NEW Graduate Colloquium?",
-      "Answer": "During your first semester of enrollment in the CIS program.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What is the deadline to add or drop a course without penalties?",
-      "Answer": "Review the academic calendar for accurate dates.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "How can I check if a specific course is available?",
-      "Answer": "Check the course catalog or the WebReg system.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "How can I check if a course is offered during Fall, Spring, Summer and Winter Semester?",
-      "Answer": "Consult the academic calendar or course catalog.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "How many credits are considered full time as a graduate student?",
-      "Answer": "Full-time status typically requires 9 or more credits per semester.  Refer to UD policy https://catalog.udel.edu/content.php?catoid=30&navoid=3805#registration-requirements",
-      "Category": "Advising"
-    },
-    {
-      "Question": "How many credits are considered part time as a graduate student?",
-      "Answer": "Part-time status is generally considered to be less than 9 credits per semester. Refer to Ud policy https://catalog.udel.edu/content.php?catoid=30&navoid=3805#registration-requirements",
-      "Category": "Advising"
-    },
-    {
-      "Question": "Where do I go to obtain my UD student ID?",
-      "Answer": "Visit the student services center on campus.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "How do I set up my UD email address?",
-      "Answer": "Follow instructions provided by the IT department during orientation.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "What is the process for changing my academic advisor if needed?",
-      "Answer": "Contact the graduate academic advisor for guidance.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "How can I schedule a meeting with my faculty advisor?",
-      "Answer": "Email or use the advisor's scheduling tool.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "I'm struggling in one of my courses. Where can I go for tutoring?",
-      "Answer": "Visit the tutoring center or the academic resource center.",
-      "Category": "Social Adjustment"
-    },
-    {
-      "Question": "How can I get involved in student organizations or clubs on campus?",
-      "Answer": "Visit the student union or the university's club directory.",
-      "Category": "Social Adjustment"
-    },
-    {
-      "Question": "Where can I find information about off campus housing or finding a roommate?",
-      "Answer": "Check the university's off-campus housing resources.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "What are the deadlines to apply for graduation?",
-      "Answer": "Review graduation application deadlines on the registrar's website.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "Where do I go for resume preparation?",
-      "Answer": "Visit the career services center on campus.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "Where do I go for interview preparation?",
-      "Answer": "Career services can provide mock interviews and resources.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What kind of events are happening on campus?",
-      "Answer": "Check Perkins Student Center website.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "Where do I go to check my student account?",
-      "Answer": "Log into the student portal to access your account.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "Where do I go to access my student billing?",
-      "Answer": "Use the student portal to view your billing information.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "Where do I go to access my financial aid?",
-      "Answer": "Financial aid details can be found in the student financial services section.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "What type of aids are available?",
-      "Answer": "University Funding, Loans, Outside Funding.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "Is the UD Wellbeing fee mandatory?",
-      "Answer": "The UD Wellbeing Fee is a mandatory University fee.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "What type of scholarships are available to CIS Master's students?",
-      "Answer": "CIS department does not offer scholarships for Master's students. Refer to other funding options.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What type of scholarships/funding are available to CIS PhD students?",
-      "Answer": "Reach out to faculty members for potential PhD funding opportunities.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "Where do I go for mental health services, counseling, health services on campus?",
-      "Answer": "Visit the student health and counseling center.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "What are my options for public transportation around campus and the surrounding city?",
-      "Answer": "Public transportation options include buses and campus shuttles.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "Where can I find current campus news announcements?",
-      "Answer": "Subscribe to UDaily for the latest news.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "Are there engineering clubs for women on campus?",
-      "Answer": "Explore the Women in Engineering clubs via the campus website.",
-      "Category": "Social Adjustment"
-    },
-    {
-      "Question": "I'm having trouble enrolling in a course?",
-      "Answer": "View the WebReg demo or contact the registrar.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "Where do I go to register for health/dental insurance?",
-      "Answer": "Find details on the University health plan web page.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "Where can I dine on campus?",
-      "Answer": "Refer to the campus dining map for options.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "Where is the library located?",
-      "Answer": "The library is centrally located on campus.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "Where can I find a map of the campus to locate classroom buildings?",
-      "Answer": "Access campus maps online or through the university app.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "What are the hours and name of the campus gym?",
-      "Answer": "Check the gym's website for hours and facilities.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "How do I obtain a parking permit?",
-      "Answer": "Apply for a parking permit online or at the parking office.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "What safety services are available on campus?",
-      "Answer": "Contact University Campus Police for safety services.",
-      "Category": "Acclimation to Campus"
-    },
-    {
-      "Question": "What is the CIS PhD Study Plan?",
-      "Answer": "1) Find a research advisor within 1 year, 2) Pass the preliminary exam within 2 years, 3) Enter Candidacy within 4 years, 4) Defend thesis within 5-7 years.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "Where can I find assistsance to improve my writing skills?",
-      "Answer": "The Writing Center is located in 016 Memorial Hall and the Multimedia Center in 017 Morris Library. Students make an appointments by visiting www.english.udel.edu/wc/.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What are the admission requirements for the 4+1 Bachelors with Master of Science in Computer Science?",
-      "Answer": "Students apply to the 4+1 program in the spring semester of their junior year, or when they have completed 75 credits toward their undergraduate degree.  Minimum grade average of 3.2 in the major field of study and an overall cumulative index of 3.0 is required.  Scholarly competence in the following areas of computer science and mathematics, described as follows:\n\nstructured high-level programming (for example, CISC106, CISC 108, or equivalent),\nsystems programming (for example, CISC210 or equivalent),\ndata structures (for example, CISC 220 or equivalent),\ncalculus (for example, MATH 241 or equivalent) or statistics (for example, STAT200 or MATH 205 or equivalent) or discrete math (for example MATH 210 or equivalent).",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What is the UD policy for Leave of Absences and Parental Accomodation?",
-      "Answer": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What  is the UD policy for Medical Leave of Absences?",
-      "Answer": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What is the UD policy for personal leave of absence?",
-      "Answer": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What is the UD policy for professional leave of absence?",
-      "Answer": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What is the process to withdraw from the university (terminate their associations for the university and specific degree program)?",
-      "Answer": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#resignation-from-the-university",
-      "Category": "Advising"
-    },
-    {
-      "Question": "This summer I will be hired as a Graduate Reserach Assistant. What course do I need to register for?",
-      "Answer": "Students who are supported by the University as research assistants during the summer months are required to be registered in at least three credits during the 7 1/2 week summer session under the following guidelines: the work must be related to the student's degree program, and the funding amount must meet the minimum requirement per month in June and July. Students may register in 868-800 (research), 869 (thesis), 964 (pre-candidacy study), 969 (dissertation), 864 (internship), sustaining, or a regular graduate course needed for the degree and offered in the 7 1/2 week summer session. Except for 864, 869, or regular courses, all courses are graded pass/fail.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "I'm a doctoral student and my status has not changed to Sustaining. When will my status change to Sustaining?",
-      "Answer": "Once a graduate student who is completing a thesis, dissertation, or education leadership portfolio has completed registration in all required course credits needed for the degree (including the registration of six credits of Master's thesis [869] or nine to twelve credits of dissertation [969]) and all other degree requirements except the submission of the thesis, dissertation, or education leadership portfolio) the student must maintain matriculation in the degree program during the fall and spring semesters by registering for either Master's Sustaining: Thesis (UNIV 899) or Doctoral Sustaining (UNIV 999). All students, including sustaining students, must be registered in the semester in which the degree is officially awarded. Sustaining registration is required for summer and winter session only if the degree is awarded at the conclusion of the summer or winter session. Students in sustaining status are considered full-time.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What are the Ph.D. dissertation submission deadlines?",
-      "Answer": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/",
-      "Category": "Advising"
-    },
-    {
-      "Question": "Where can I find information about the Dual program Computer Science (MBA/MS)?",
-      "Answer": "https://lerner.udel.edu/programs/dual-degrees/mba-m-s-computer-science/",
-      "Category": "Advising"
-    },
-    {
-      "Question": "I would like to request information about the program",
-      "Answer": "https://grad-admissions.udel.edu/register/?id=d08da75b-f7f0-4da3-b415-faf3f45d29db#",
-      "Category": "Other"
-    },
-    {
-      "Question": "Where do I search for information about courses, including locations, times, and seat availability?",
-      "Answer": "https://udapps.nss.udel.edu/CoursesSearch/",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What are the Masters Thesis submission deadlines?",
-      "Answer": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What are the Admission to Doctoral Candidacy submission deadlines?",
-      "Answer": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/",
-      "Category": "Advising"
-    },
-    {
-      "Question": "What are the Application for Advanced Degree submission deadlines?",
-      "Answer": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/",
-      "Category": "Advising"
-    },
-    {
-      "Question": "I plan to defend my Dissertation. What form should I bring at the time of the defense to acquire committee member signtures?",
-      "Answer": "Certification of Doctoral Dissertation Defense   https://www.udel.edu/content/dam/udelImages/grad-college/graduate-college-pdfs/certification_doctoral_dissertation.pdf",
-      "Category": "Advsing"
-    },
-    {
-      "Question": "When are graduate degrees awarded?",
-      "Answer": "Graduate degrees are awarded at the end of fall, winter, spring and summer sessions. You must file your Application for Advanced Degree with the Graduate College to start the process.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "I'm a doctoral student and defended. Where do I send the signed Certification of Doctoral Defense Form?",
-      "Answer": "Send to copleted form to GradStudentForms@udel.edu  and copy the CIS Graduate Academic Advisor II on the email.",
-      "Category": "Advising"
-    },
-    {
-      "Question": "How can I obtain the Department Chair signature for my forms?",
-      "Answer": "Contact  the CIS Graduate Academic Advisor II",
-      "Category": "Other"
-    },
-    {
-      "Question": "How  do I reserve room 201 in Smith Hall?",
-      "Answer": "Contact the CIS Graduate Academic Advisor II",
-      "Category": "Other"
-    },
-    {
-        "Question": "What is the focus of the Artificial Intelligence graduate certificate program?",
-        "Answer": "The Artificial Intelligence graduate certificate program focuses on AI techniques such as machine learning, data analysis, and pattern recognition to enable systems to make decisions or predictions that typically require human intelligence.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What career opportunities can the Artificial Intelligence graduate certificate open up?",
-        "Answer": "The AI certificate can provide a competitive edge in industries such as healthcare, technology, finance, and more, where AI professionals are highly sought-after.",
-        "Category": "Career Opportunities"
-    },
-    {
-        "Question": "What are the application deadlines for the AI certificate program?",
-        "Answer": "Applications are accepted up to the first day of classes for both the fall and spring semesters.",
-        "Category": "Admissions"
-    },
-    {
-        "Question": "What is the tuition cost for the AI graduate certificate program?",
-        "Answer": "The 2024-2025 UD graduate student tuition rate per credit hour is $1,406.",
-        "Category": "Tuition and Fees"
-    },
-    {
-        "Question": "What skills will I gain from the AI certificate program?",
-        "Answer": "Students will gain skills in AI system development, machine learning, data analysis, pattern recognition, and AI-driven decision-making processes.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What is the focus of the Ph.D. in Bioinformatics Data Science?",
-        "Answer": "The Ph.D. program in Bioinformatics Data Science focuses on developing and applying computational tools and techniques for analyzing, managing, and visualizing biological data, as well as modeling and simulating biological systems.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "Which colleges contribute to the Bioinformatics Data Science Ph.D. program?",
-        "Answer": "The program is an interdisciplinary effort involving the Colleges of Engineering (COE), Arts and Sciences (CAS), Agriculture and Natural Resources (CANR), and Earth, Ocean, and Environment (CEOE).",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "Who administers the Ph.D. in Bioinformatics Data Science?",
-        "Answer": "The Center for Bioinformatics and Computational Biology (CBCB) administers the Ph.D. program and coordinates with individual departments.",
-        "Category": "Administration"
-    },
-    {
-        "Question": "What skills will students gain from this Ph.D. program?",
-        "Answer": "Students will gain expertise in experimental, computational, and mathematical disciplines, including data generation and analysis for biomedical research and developing computational models of biological systems.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What are the application deadlines for the Ph.D. program?",
-        "Answer": "For Fall admission: February 15 for priority consideration, April 15 is the final deadline. For Spring admission: July 15 for priority consideration, December 1 is the final deadline. Late applications are subject to availability.",
-        "Category": "Admissions"
-    },
-    {
-        "Question": "What is the tuition rate for the Ph.D. in Bioinformatics Data Science?",
-        "Answer": "The 2024-2025 UD graduate student tuition rate per credit hour is $1,069.",
-        "Category": "Tuition and Fees"
-    },
-    {
-        "Question": "What career opportunities are available after completing this Ph.D. program?",
-        "Answer": "Graduates can pursue careers in biomedical research, pharmaceutical sciences, environmental science, and interdisciplinary computational biology roles in academia, industry, and government.",
-        "Category": "Career Opportunities"
-    },
-    {
-        "Question": "What graduate degrees does the Department of Computer and Information Sciences offer?",
-        "Answer": "The department offers Ph.D., M.S., M.S./MBA, and 4+1 programs in Computer Science.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What are the research strengths of the Computer Science graduate program?",
-        "Answer": "Research strengths include artificial intelligence, bioinformatics, computational theory, compiler optimization, natural-language processing, parallel and distributed computing, networks, graphics and computer vision, software engineering, robotics, and more.",
-        "Category": "Research Areas"
-    },
-    {
-        "Question": "How does the M.S. in Computer Science program differ from the Ph.D. program?",
-        "Answer": "The M.S. program provides foundational knowledge and advanced coursework in computer science, while the Ph.D. program is designed to prepare students for conducting advanced research in the field.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What are the application deadlines for the Computer Science graduate programs?",
-        "Answer": "For Fall admission: February 1 for departmental funding consideration, July 1 is the final deadline. For Spring admission: December 1 is the final deadline (departmental funding is not available for spring applicants).",
-        "Category": "Admissions"
-    },
-    {
-        "Question": "Are there funding opportunities for doctoral students?",
-        "Answer": "Yes, all or nearly all doctoral students receive a stipend and full tuition scholarship.",
-        "Category": "Funding and Scholarships"
-    },
-    {
-        "Question": "Is Comnputer Science departmental funding available for spring admissions?",
-        "Answer": "No, departmental funding is not available for students applying for spring admission.",
-        "Category": "Funding and Scholarships"
-    },
-    {
-        "Question": "What is the tuition rate for the Computer Science graduate program?",
-        "Answer": "The 2024-2025 UD graduate student tuition rate per credit hour is $1,406.",
-        "Category": "Tuition and Fees"
-    },
-    {
-        "Question": "What graduate programs are offered in cybersecurity?",
-        "Answer": "The Department of Cybersecurity offers M.S., 4+1, Certificate, Certificate (Online), and M.S. (Online) programs.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What makes the cybersecurity master’s program unique compared to other IT security programs?",
-        "Answer": "Unlike other programs solely focused on IT security, this program emphasizes secure software and systems design, security analytics, and secure business systems.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What are the concentrations available in the cybersecurity program?",
-        "Answer": "The program offers concentrations in Security Analytics, Secure Software, Secure Systems, and Security Management.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What certificates are offered in cybersecurity?",
-        "Answer": "Certificates offered include Cybersecurity Certificate (Foundations), Secure Systems Certificate, Security Analytics Certificate, Security Management Certificate, and Secure Software Certificate.",
-        "Category": "Certificates"
-    },
-    {
-        "Question": "When are the application deadlines for the cybersecurity master’s program?",
-        "Answer": "Deadlines vary based on the term and program format. The final deadlines are: August 1 (M.S.), August 15 (M.S.–Online), January 1 (Spring M.S.), and multiple deadlines for online and certificate programs.",
-        "Category": "Admissions"
-    },
-    {
-        "Question": "Are international applicants eligible for a U.S. student visa with a graduate certificate program?",
-        "Answer": "No, international applicants are not eligible for a U.S. student visa solely with acceptance to a UD graduate certificate program. However, certificates may be added by full-time matriculated graduate students.",
-        "Category": "International Students"
-    },
-    {
-        "Question": "What is the tuition rate for the cybersecurity graduate program?",
-        "Answer": "The 2024-2025 UD graduate student tuition rate per credit hour is $1,069.",
-        "Category": "Tuition and Fees"
-    },
-    {
-        "Question": "What graduate programs are offered in data science?",
-        "Answer": "The Department of Data Science offers M.S., 4+1, and Ph.D./M.S. programs.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What are the core requirements of the M.S. in Data Science program?",
-        "Answer": "The core requirements include a flexible set of courses in statistics, mathematics, and computer and information sciences.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What career paths does the M.S. in Data Science program prepare students for?",
-        "Answer": "The program prepares students for careers as data analysts, data engineers, and data scientists.",
-        "Category": "Career Opportunities"
-    },
-    {
-        "Question": "Which undergraduate majors are eligible for the 4+1 M.S. in Data Science program?",
-        "Answer": "Eligible majors include computer science, information sciences, computer engineering, electrical engineering, mathematics, mathematics education, and actuarial sciences.",
-        "Category": "Admissions"
-    },
-    {
-        "Question": "What dual-degree options are available with the M.S. in Data Science?",
-        "Answer": "Graduate students can pursue dual degrees in M.S. in Data Science and Ph.D. in Applied Mathematics or Ph.D. in Mathematics.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "When is the application deadline for the M.S. in Data Science program?",
-        "Answer": "The final deadline to apply for the fall semester is February 1.",
-        "Category": "Admissions"
-    },
-    {
-        "Question": "What is the tuition rate for the Data Science graduate program?",
-        "Answer": "The 2024-2025 UD graduate student tuition rate per credit hour is $1,069.",
-        "Category": "Tuition and Fees"
-    },
-    {
-        "Question": "What degrees are offered in the Quantum Science and Engineering program?",
-        "Answer": "The program offers both M.S. and Ph.D. degrees in Quantum Science and Engineering.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What are some applications of quantum science and engineering?",
-        "Answer": "Quantum science and engineering can lead to advancements in quantum computing, quantum sensors, and quantum encryption.",
-        "Category": "Field Applications"
-    },
-    {
-        "Question": "Is there a non-thesis option available for the M.S. degree?",
-        "Answer": "Yes, while most M.S. degrees include a thesis, a non-thesis option is available.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What are the application deadlines for the QSE program?",
-        "Answer": "The Ph.D. application deadline is December 1, and the M.S. application deadline is March 1. Review of applications begins December 1.",
-        "Category": "Admissions"
-    },
-    {
-        "Question": "Why is there a growing demand for quantum science and engineering professionals?",
-        "Answer": "Due to significant investments from industry and the federal government, there is a need for a trained ‘Quantum Workforce’ to develop large-scale quantum technologies.",
-        "Category": "Career Opportunities"
-    },
-    {
-        "Question": "What is the tuition rate for the QSE graduate program?",
-        "Answer": "The 2024-2025 UD graduate student tuition rate per credit hour is $1,406.",
-        "Category": "Tuition and Fees"
-    },
-    {
-        "Question": "What degree options are available in the Robotics program?",
-        "Answer": "The program offers an M.S. in Robotics and a 4+1 option for eligible students.",
-        "Category": "Program Information"
-    },
-    {
-        "Question": "What are the two tracks available in the M.S. in Robotics program?",
-        "Answer": "Students can choose between a master's thesis track and a course-based-only track.",
-        "Category": "Program Structure"
-    },
-    {
-        "Question": "How many credit hours are required to complete the M.S. in Robotics program?",
-        "Answer": "The program consists of 30 credit hours of graduate-level coursework.",
-        "Category": "Program Requirements"
-    },
-    {
-        "Question": "What specializations are available in the Robotics program?",
-        "Answer": "Students can specialize in control, estimation, optimization, or machine learning by selecting electives from an approved list of graduate courses.",
-        "Category": "Specializations"
-    },
-    {
-        "Question": "What are the application deadlines for the Robotics program?",
-        "Answer": "For Fall admission, the priority deadline for funding is January 31, and the final deadline is July 31. For Spring admission, the priority deadline is October 31, and the final deadline is December 31.",
-        "Category": "Admissions"
-    },
-    {
-        "Question": "What is the tuition rate for the M.S. in Robotics program?",
-        "Answer": "The 2024-2025 UD graduate student tuition rate per credit hour is $1,069.",
-        "Category": "Tuition and Fees"
-    },
-    {
-      "Question": "My term is not activated and I can not register for classes. Could you help me out with this process?",
-      "Answer": "If your term is not activated, you won't be able to register for classes. To resolve this, log into UDSIS, navigate to the 'Courses & Enrollment' tile, and check your 'Enrollment Dates' to ensure your registration appointment is active. If issues persist, contact the Registrar's Office for assistance.",
-      "Category": "Registration",
-      "Source": "https://www.udel.edu/academics/registrar/students/grading-registration/class-registration/"
-    },
-    {
-      "Question": "I'm taking a leave of absence for the Spring semester. Should my RA contract for the spring be cancelled in order for my leave of absence to process?",
-      "Answer": "Yes, students on a leave of absence are not eligible to hold assistantships, including RA positions. You should coordinate with your department and the Graduate College to cancel your RA contract as part of the leave process.",
-      "Category": "Leave of Absence / Assistantships",
-      "Source": "https://catalog.udel.edu/content.php?catoid=91&navoid=28413"
-    },
-    {
-      "Question": "I already submitted the Application for Advanced Degree. I am writing to inquire if it is possible to change one of the courses claimed for my MS degree at this point in the semester.",
-      "Answer": "Changes to your degree plan after submitting the Application for Advanced Degree require approval. Contact your advisor and the Graduate College to discuss the possibility and process for making such changes.",
-      "Category": "Degree Requirements",
-      "Source": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/policies/"
-    },
-    {
-      "Question": "On the Stellic website, it is shown that I completed the requirements for an MS computer science degree. How can I get the diploma certificate for a master's degree?",
-      "Answer": "After completing degree requirements, degrees are typically conferred at the end of the term. Diplomas are mailed to the address on file. Ensure your mailing address is up to date in UDSIS.",
-      "Category": "Graduation",
-      "Source": "https://www.udel.edu/academics/registrar/students/grading-registration/class-registration/"
-    },
-    {
-      "Question": "Recently, our letter grades were released for the fall semester, and I received a B- in the CISC 621 course. As it was a breadth course from the \"Theory, Mathematical, and Formal Reasoning” area, and I haven’t seen any specific letter grade requirements for breadth courses, may you confirm that I‘m not required to take any other courses from this area in the next semesters",
-      "Answer": "A B- is generally considered passing for graduate courses. However, specific program requirements may vary. Consult your program's handbook or advisor to confirm if the grade meets the breadth requirement.",
-      "Category": "Academic Requirements",
-      "Source": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/policies/"
-    },
-    {
-      "Question": "If I have already taken CISC 437 (and the 437 section meets with the 637 and does the same work), can I in any way count that as completing CISC 637?",
-      "Answer": "Undergraduate courses like CISC 437 typically cannot substitute for graduate-level requirements like CISC 637. Discuss with your advisor to explore possible options or exceptions.",
-      "Category": "Course Substitutions",
-      "Source": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/policies/"
-    },
-    {
-      "Question": "Could you please provide me the information on the following:. How to check how much fee is supposed to be paid? Where can I pay it from?",
-      "Answer": "You can view your tuition and fees in UDSIS under the 'Finances' section. Payments can be made online through the Student Financial Services portal.",
-      "Category": "Student Finances",
-      "Source": "https://www.udel.edu/academics/registrar/students/grading-registration/class-registration/"
-    },
-    {
-      "Question": "This semester, I successfully passed my Ph.D. defense and submitted all required materials for graduation. The website you previously shared indicates that the degree will be mailed to my residential address. As I am preparing to leave Newark soon, I would like to confirm the timeline for receiving my doctoral degree.",
-      "Answer": "Diplomas are typically mailed 6-8 weeks after degree conferral. Ensure your mailing address is current in UDSIS to receive your diploma promptly.",
-      "Category": "Graduation",
-      "Source": "https://www.udel.edu/academics/registrar/students/grading-registration/class-registration/"
-    },
-    {
-      "Question": "I am applying for OPT and the immigration advisor just notified me that my OPT I-20 cannot be issued for an MS degree if I am still enrolled in a PhD program. Could you change my program from PhD to MS in the portal please? Or who should I ask for assistance? I intend to send my OPT application as soon as possible so it's a bit urgent",
-      "Answer": "Program changes must be processed through the Graduate College. Contact your department and the Graduate College to initiate the change from PhD to MS.",
-      "Category": "International Student Services",
-      "Source": "https://www.udel.edu/academics/colleges/grad/research/graduate-student-travel-award/"
-    },
-    {
-      "Question": "I am writing to ask about the policy on updating members of my Ph.D. dissertation committee. I passed my proposal defense last year and am now reviewing the next steps toward my dissertation defense. Could you please let me know if adjustments to the committee are permitted at this stage and what the process might involve?",
-      "Answer": "Changes to your dissertation committee are possible but require approval. Submit a revised committee form to the Graduate College with the necessary endorsements.",
-      "Category": "Dissertation Committees",
-      "Source": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/policies/"
-    },
-    {
-      "Question": "I wanted to inform you that I have submitted the form for the Graduate Student Travel Award. Could you please let me know if I also need to complete a separate form for departmental support as part of the application process?",
-      "Answer": "Yes, in addition to the Graduate Student Travel Award application, you may need to complete a separate form for departmental support. Some departments, such as the School of Education, require students to submit an internal application to track funding and provide matching support. It's advisable to consult your department's specific guidelines or contact your advisor for detailed instructions.",
-      "Category": "Graduate Funding & Travel",
-      "Source": "https://www.education.udel.edu/wp-content/uploads/2019/11/SOE-Graduate-Student-Travel-Policy-F19.pdf"
-    },
-    {
-      "Question": "I need a room in Smith Hall reserved for my upcoming preliminary exam. Please let me know how to do so.",
-      "Answer": "To reserve a room in Smith Hall for your preliminary exam, faculty and staff can use the Classroom Reservation Request Form available through 25Live. This system allows for the reservation of classrooms for events other than regular credit class meetings.",
-      "Category": "Campus Facilities & Scheduling",
-      "Source": "https://my.udel.edu/task/all/specev"
-    },
-    {
-      "Question": "I am reaching out to inquire about the possibility of transferring credits from my previous graduate studies to my current program. I believe some of the courses I completed might align with the requirements or electives in my PhD program. Could you please let me know if transferring credits is an option? If so, I would appreciate your guidance on the process and any steps I need to take to initiate the transfer.",
-      "Answer": "Transferring credits from previous graduate studies is possible at the University of Delaware. You should complete the 'Transfer of Credit' form, which can be found on the Graduate & Professional Education website. It's important to consult with your advisor to ensure the courses align with your current program requirements.",
-      "Category": "Academic Policies & Procedures",
-      "Source": "https://my.udel.edu/collection/all/transfer-credit"
-    },
-    {
-      "Question": "I have a credit by examination form. How do I obtain the chair's signature and can I pay the fee before the form is signed by the department chair?",
-      "Answer": "To proceed with a credit by examination, you must first obtain the department chair's signature on the form. The fee should be paid after securing the necessary approvals. It's recommended to contact your department's administrative office for specific procedures and guidance.",
-      "Category": "Academic Policies & Procedures",
-      "Source": "https://www.udel.edu/academics/registrar/students/dept-contacts/"
-    },
-    {
-      "Question": "There are two courses I am looking at taking over the winter, but they would not count towards the credit requirements for my major, which is an MS in Computer Science. I know that they encourage people to explore and ask to submit a course permit form to have a course count towards the degree. Where can I access this form, or who can I contact?",
-      "Answer": "To request that a course counts towards your MS in Computer Science degree, you should complete the 'Approval for Modification to Degree Requirements' form. This form is available on the Graduate & Professional Education website. For assistance, contact your academic advisor or the Graduate College.",
-      "Category": "Academic Policies & Procedures",
-      "Source": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/forms/"
-    },
-    {
-      "Question": "Could you remind me what number should I put in the 'total credits required for MS degree' field on the AAD form?",
-      "Answer": "The total number of credits required for an MS degree varies by program. For the MS in Computer Science, the requirement is typically 30 credits. However, you should confirm the exact number with your department or academic advisor to ensure accuracy.",
-      "Category": "Academic Policies & Procedures",
-      "Source": "https://www.cis.udel.edu/academics/graduate-programs/master-of-science-in-computer-science/"
-    },
-    {
-      "Question": "In section 5 course list of the AAD form, should I just enter the 10 courses I listed in my 'Completion Of MS Degree Requirements' form?",
-      "Answer": "Yes, in section 5 of the Application for Advanced Degree (AAD) form, you should list the courses that fulfill your degree requirements, which typically align with those listed in your 'Completion of MS Degree Requirements' form. Ensure that the courses listed meet the criteria set by your program.",
-      "Category": "Academic Policies & Procedures",
-      "Source": "https://www.cehd.udel.edu/students/grad-prog/resources-for-grad-students/"
-    },
-    {
-      "Question": "Today, I have a question for the department - can I obtain a master's degree from our department by the end of this semester? However, that is not to say I will obtain a master's degree instead of my Ph.D. degree - I will continue with my Ph.D. program at UD.The reason I need a master's degree at this moment is because it can give me several advantages regarding work authorization and immigration as an international student. With a master's degree by the end of the year, I will be able to - 1. Enter the H1B lottery (work visa) next year by an advanced degree, which has a much higher chance to win the lottery than the regular cap (with an undergraduate degree)\n2. Buy myself one more year of extra OPT (work authorization) time\n3. Start applying for green card (permanent residence) right away.  I know it might be kinda late at this moment to request, but I just got this information yesterday from the immigration team at my company, so I wish to try and see if the department can issue me a master's degree by the end of this semester. This would make my life much much easier!\n\n\n",
-      "Answer": "In order to obtain an M.S. in Computer Science you must fulfill all the requirements of said degree. In order to apply for the degree at a later date than the application deadline, you must contact an advisor in order to discuss possiblities.",
-      "Category": "Change of Major",
-      "Source": "https://www.cis.udel.edu/academics/graduate-programs/master-of-science-in-computer-science/"
-    },
-    {
-      "Question": "I want to register for the CISC964 course of Independent Study for 9 credits in Spring 2025. I would be glad if you could help with this registration",
-      "Answer": "To register for CISC964 (Independent Study), you need to obtain approval from a faculty member who will supervise your study. After securing approval, contact the department to get a specific section number assigned. Note that Independent Study courses typically have variable credit options, often ranging from 1 to 6 credits. Registering for 9 credits may require special approval from the department.",
-      "Category": "Course Registration",
-      "Source": "https://www.continuingstudies.udel.edu/registration/"
-    },
-    {
-      "Question": "I'm taking a leave of absence for the Spring semester. Should my RA contract for the spring be cancelled in order for my leave of absence to process?",
-      "Answer": "If you're planning a leave of absence for the Spring semester, it's essential to coordinate with your department regarding your RA contract. Typically, adjustments to your assistantship, such as cancellation, may be necessary to facilitate the leave. Please consult with your department's administrative office to ensure all procedures are correctly followed.",
-      "Category": "Leave of Absence",
-      "Source": "https://www.udel.edu/academics/registrar/students/grading-registration/loa-faq/"
-    },
-    {
-      "Question": "I have a few questions for you regarding a leave of absence. I got a late notice internship offer for Q1 next year, so I will need to be gone from UD from January through early March. I met with Dr. Mary Martin of the graduate college and she talked to me a bit about this. I believe that I need to get my RA contract for the spring semester cancelled, and only then can I fill out the webform for a leave of absence. Could you please double check that?",
-      "Answer": "For a short-term leave due to an internship (e.g., January through early March), you should discuss the situation with your academic advisor and department. If required, cancel your RA contract for the Spring semester. After that, submit a leave of absence request through the appropriate university channels. Ensure all steps are completed promptly to facilitate your leave.",
-      "Category": "Leave of Absence",
-      "Source": "https://www.udel.edu/academics/registrar/students/grading-registration/loa-faq/"
-    },
-    {
-      "Question": "I am writing to inform you that I plan to defend my PhD dissertation on December 12th. I have confirmed the availability of my committee members. Please let me know if there is anything else I need to do.",
-      "Answer": "To prepare for your PhD dissertation defense, confirm the availability of all committee members and complete the Certification of Doctoral Dissertation Defense form during your defense. Submit the form to the Office of Graduate and Professional Education. Ensure you meet all deadlines and requirements set by your department and the Graduate College.",
-      "Category": "Dissertation Defense",
-      "Source": "https://www.education.udel.edu/home/resources/doctoral-defense-and-graduation-procedures/"
-    },
-    {
-      "Question": "I have passed my prelim exam and have uploaded the breadth course information, prelim report, and prelim slides into the google drive that professor shared with me. Is there anything else that I need to do? Thank you for your help.",
-      "Answer": "After passing your preliminary exam and uploading the necessary documents, confirm with your advisor or department if any additional steps are required. Ensure all documentation is complete and submitted according to departmental guidelines. It's crucial to maintain communication with your department to stay informed about any further requirements.",
-      "Category": "Preliminary Exam",
-      "Source": "https://vims.cis.udel.edu/exams/"
-    },
-    {
-      "Question": "Attached you will find the thesis as well as the signed pages with the front page and abstract. The abstract in the signed pages have the same page numbers as in the thesis, should these be removed?",
-      "Answer": "According to the University of Delaware's thesis submission guidelines, the abstract and its approval page should be submitted as separate documents from the main thesis. Therefore, it's appropriate to remove page numbers from the abstract in the signed pages to distinguish it from the main document.",
-      "Category": "Thesis Formatting",
-      "Source": "https://www.udel.edu/content/dam/udelImages/grad-college/graduate-college-pdfs/UD-Thesis-Manual-7-19.pdf"
-    },
-    {
-      "Question": "Do you know how to reserve a room in FinTech?",
-      "Answer": "To reserve a room in the FinTech Innovation Hub at the University of Delaware, fill out the request for student space form.",
-      "Category": "Facility Reservation",
-      "Source": "https://sites.udel.edu/usc/meetings-events/"
-    },
-    {
-      "Question": "When am I supposed to send you the signature page for the thesis? Is it after formatting corrections by the grad college? now?",
-      "Answer": "The timing for submitting the signature page for your thesis depends on your college. Generally, after your thesis has been approved by your committee and any required formatting corrections have been made, you should submit the signature page along with the final thesis. Specific submission instructions, including where to send these documents, are provided by your college's guidelines.",
-      "Category": "Thesis Submission",
-      "Source": "https://www.udel.edu/content/dam/udelImages/grad-college/graduate-college-pdfs/UD-Thesis-Manual-7-19.pdf"
-    },
-    {
-      "Question": "I filled out the \"CISC Registration Help Form\" to add the course 2025 Spring  \"CISC637010: Database Systems\" around four days ago, but it still hasn't been added to my course. Could you please help me with this issue?",
-      "Answer": "If you've submitted the CISC Registration Help Form and haven't seen the course added to your schedule after four days, it's advisable to follow up with the Department of Computer and Information Sciences. You can contact the department directly or reach out to your academic advisor for assistance in expediting the registration process.",
-      "Category": "Course Registration",
-      "Source": "https://www.udel.edu/academics/registrar/students/dept-contacts/"
-    },
-    {
-      "Question": "I am planning to complete my prelim exam at the end of this month, but I am not sure how to reserve a room. I wonder if you could kindly help me to reserve a room or point me to the right person. Anytime in the last week of November and the first week of December during normal business hours should work for me, and if possible, a room at Star campus is preferred since it is closer to my lab.",
-      "Answer": "To reserve a room at the STAR Campus for your preliminary exam, you fill out the request for student space form.",
-      "Category": "Facility Reservation",
-      "Source": "https://sites.udel.edu/usc/meetings-events/"
-    },
-    {
-      "Question": "Currently in my 1st semester MS in computer science. Reaching out to clarify the minimum grade requirements for both the breadth components and elective courses for students enrolled in Fall 2024. I want to ensure that I am meeting all necessary academic standards and expectations for these components.",
-      "Answer": "For the MS in Computer Science program at the University of Delaware, students are required to complete 12 credits of elective courses, which must be taken using the standard grading option (i.e., letter grades). A minimum grade of C- is required in all CISC courses to meet degree requirements.",
-      "Category": "Academic Requirements",
-      "Source": "https://www.cis.udel.edu/academics/graduate-programs/master-of-science-in-computer-science/"
-    },
-    {
-      "Question": "I'm writing to see if I can schedule some time with you for some academic advising regarding the PhD program and also course selection as currently I'm facing some problems and I'm trying to solve it.",
-      "Answer": "To schedule an academic advising appointment for the PhD program, please email your assigned advisor directly or schedule an appointment online through Stellic. You can find your advisor's name listed on your UDSIS account under the Degrees & Advisement tile.",
-      "Category": "Academic Advising",
-      "Source": "https://www.udel.edu/academics/colleges/cas/current-students/student-success-center/advising-and-academic-services/"
-    },
-    {
-      "Question": "I am sorry for needing to re-clarify the problem I am currently encountering. I have received an admission offer for the PhD graduate program, and I need to activate my UD email account. However, when I follow the enrollment instructions, it seems to require a deposit to continue the process. I asked for help from my friends at UD, and they did not have to pay a deposit. In the error message, the deposit does not appear to be the application fee, which I already paid when I submitted my application. Am I misunderstanding something? What should I do next?",
-      "Answer": "To activate your UD email account, you must first submit your admission deposit. After submitting the deposit, you can set up your UDelNet ID and password by logging into My Blue Hen Home and selecting the 'Set-up your UD email account' option. If you believe there is an error or if you have questions about the deposit requirement, please contact the Graduate College or the Center for Global Programs & Services (CGPS) for assistance.",
-      "Category": "Account Activation",
-      "Source": "https://services.udel.edu/TDClient/KB/ArticleDet?ID=26"
-    },
-    {
-      "Question": "How do I activate my UD email?",
-      "Answer": "To activate your UD email account, you must first submit your admission deposit. After submitting the deposit, you can set up your UDelNet ID and password by logging into My Blue Hen Home and selecting the 'Set-up your UD email account' option. If you believe there is an error or if you have questions about the deposit requirement, please contact the Graduate College or the Center for Global Programs & Services (CGPS) for assistance.",
-      "Category": "Account Activation",
-      "Source": "https://services.udel.edu/TDClient/KB/ArticleDet?ID=26"
-    }
-  ]
+	{
+		"question": "How do I request an admissions deferment when I cannot attend during my expected enrollment term?",
+		"answers": "Submit your admission deferral request to the CIS Graduate Academic Advisor II for review.",
+		"category": "ADMISSIONS"
+	},
+	{
+		"question": "When does course registration open for the Fall, Spring, Summer and Winter semester?",
+		"answers": "Refer to academic calendar for most up-to-date deadlines.",
+		"category": "REGISTRATION"
+	},
+	{
+		"question": "What should I do if the course I want is full?",
+		"answers": "Add to waitlist.",
+		"category": "REGISTRATION"
+	},
+	{
+		"question": "What is the process for auditing a course?",
+		"answers": "Please check with the academic advisor for details on course auditing.",
+		"category": "REGISTRATION"
+	},
+	{
+		"question": "Do I need special permission to register for CISC890 NEW Graduate Colloquium?",
+		"answers": "Yes, contact CIS Graduate Academic Advisor II to register for course.",
+		"category": "REGISTRATION"
+	},
+	{
+		"question": "When do I enroll in CIS 890 NEW Graduate Colloquium?",
+		"answers": "During your first semester of enrollment in the CIS program.",
+		"category": "REGISTRATION"
+	},
+	{
+		"question": "What is the deadline to add or drop a course without penalties?",
+		"answers": "Review the academic calendar for accurate dates.",
+		"category": "REGISTRATION"
+	},
+	{
+		"question": "How can I check if a specific course is available?",
+		"answers": "Check the course catalog or the WebReg system.",
+		"category": "REGISTRATION"
+	},
+	{
+		"question": "How can I check if a course is offered during Fall, Spring, Summer and Winter Semester?",
+		"answers": "Consult the academic calendar or course catalog.",
+		"category": "REGISTRATION"
+	},
+	{
+		"question": "How many credits are considered full time as a graduate student?",
+		"answers": "Full-time status typically requires 9 or more credits per semester.  Refer to UD policy https://catalog.udel.edu/content.php?catoid=30&navoid=3805#registration-requirements",
+		"category": "REGISTRATION"
+	},
+	{
+		"question": "How many credits are considered part time as a graduate student?",
+		"answers": "Part-time status is generally considered to be less than 9 credits per semester. Refer to Ud policy https://catalog.udel.edu/content.php?catoid=30&navoid=3805#registration-requirements",
+		"category": "REGISTRATION"
+	},
+	{
+		"question": "Where do I go to obtain my UD student ID?",
+		"answers": "Visit the student services center on campus.",
+		"category": "STUDENT_SERVICES"
+	},
+	{
+		"question": "How do I set up my UD email address?",
+		"answers": "Follow instructions provided by the IT department during orientation.",
+		"category": "STUDENT_SERVICES"
+	},
+	{
+		"question": "What is the process for changing my academic advisor if needed?",
+		"answers": "Contact the graduate academic advisor for guidance.",
+		"category": "ADVISING"
+	},
+	{
+		"question": "How can I schedule a meeting with my faculty advisor?",
+		"answers": "Email or use the advisor's scheduling tool.",
+		"category": "ADVISING"
+	},
+	{
+		"question": "I’m struggling in one of my courses. Where can I go for tutoring?",
+		"answers": "Visit the tutoring center or the academic resource center.",
+		"category": "ADVISING"
+	},
+	{
+		"question": "How can I get involved in student organizations or clubs on campus?",
+		"answers": "Visit the student union or the university's club directory.",
+		"category": "CAMPUS_LIFE"
+	},
+	{
+		"question": "Where can I find information about off campus housing or finding a roommate?",
+		"answers": "Check the university's off-campus housing resources.",
+		"category": "CAMPUS_LIFE"
+	},
+	{
+		"question": "What are the deadlines to apply for graduation?",
+		"answers": "Review graduation application deadlines on the registrar’s website.",
+		"category": "RESEARCH_AND_GRADUATION"
+	},
+	{
+		"question": "Where do I go for resume preparation?",
+		"answers": "Visit the career services center on campus.",
+		"category": "CAMPUS_LIFE"
+	},
+	{
+		"question": "Where do I go for interview preparation?",
+		"answers": "Career services can provide mock interviews and resources.",
+		"category": "CAMPUS_LIFE"
+	},
+	{
+		"question": "What kind of events are happening on campus?",
+		"answers": "Check Perkins Student Center website.",
+		"category": "CAMPUS_LIFE"
+	},
+	{
+		"question": "Where do I go to check my student account?",
+		"answers": "Log into the student portal to access your account.",
+		"category": "FINANCES"
+	},
+	{
+		"question": "Where do I go to access my student billing?",
+		"answers": "Use the student portal to view your billing information.",
+		"category": "FINANCES"
+	},
+	{
+		"question": "Where do I go to access my financial aid?",
+		"answers": "Financial aid details can be found in the student financial services section.",
+		"category": "FINANCES"
+	},
+	{
+		"question": "What type of aids are available?",
+		"answers": "University Funding, Loans, Outside Funding.",
+		"category": "FINANCES"
+	},
+	{
+		"question": "Is the UD Wellbeing fee mandatory?",
+		"answers": "The UD Wellbeing Fee is a mandatory University fee.",
+		"category": "FINANCES"
+	},
+	{
+		"question": "What type of scholarships are available to CIS Master’s students?",
+		"answers": "CIS department does not offer scholarships for Master's students. Refer to other funding options.",
+		"category": "FINANCES"
+	},
+	{
+		"question": "What type of scholarships/funding are available to CIS PhD students?",
+		"answers": "Reach out to faculty members for potential PhD funding opportunities.",
+		"category": "FINANCES"
+	},
+	{
+		"question": "Where do I go for mental health services, counseling, health services on campus?",
+		"answers": "Visit the student health and counseling center.",
+		"category": "STUDENT_SERVICES"
+	},
+	{
+		"question": "What are my options for public transportation around campus and the surrounding city?",
+		"answers": "Public transportation options include buses and campus shuttles.",
+		"category": "STUDENT_SERVICES"
+	},
+	{
+		"question": "Where can I find current campus news announcements?",
+		"answers": "Subscribe to UDaily for the latest news.",
+		"category": "STUDENT_SERVICES"
+	},
+	{
+		"question": "Are there engineering clubs for women on campus?",
+		"answers": "Explore the Women in Engineering clubs via the campus website.",
+		"category": "CAMPUS_LIFE"
+	},
+	{
+		"question": "I’m having trouble enrolling in a course?",
+		"answers": "View the WebReg demo or contact the registrar.",
+		"category": "REGISTRATION"
+	},
+	{
+		"question": "Where do I go to register for health/dental insurance?",
+		"answers": "Find details on the University health plan web page.",
+		"category": "STUDENT_SERVICES"
+	},
+	{
+		"question": "Where can I dine on campus?",
+		"answers": "Refer to the campus dining map for options.",
+		"category": "FACILITIES"
+	},
+	{
+		"question": "Where is the library located?",
+		"answers": "The library is centrally located on campus.",
+		"category": "STUDENT_SERVICES"
+	},
+	{
+		"question": "Where can I find a map of the campus to locate classroom buildings?",
+		"answers": "Access campus maps online or through the university app.",
+		"category": "FACILITIES"
+	},
+	{
+		"question": "What are the hours and name of the campus gym?",
+		"answers": "Check the gym’s website for hours and facilities.",
+		"category": "FACILITIES"
+	},
+	{
+		"question": "How do I obtain a parking permit?",
+		"answers": "Apply for a parking permit online or at the parking office.",
+		"category": "FACILITIES"
+	},
+	{
+		"question": "What safety services are available on campus?",
+		"answers": "Contact University Campus Police for safety services.",
+		"category": "STUDENT_SERVICES"
+	},
+	{
+		"question": "What is the CIS PhD Study Plan?",
+		"answers": "1) Find a research advisor within 1 year, 2) Pass the preliminary exam within 2 years, 3) Enter Candidacy within 4 years, 4) Defend thesis within 5-7 years.",
+		"category": "RESEARCH_AND_GRADUATION"
+	},
+	{
+		"question": "Where can I find assistsance to improve my writing skills?",
+		"answers": "The Writing Center is located in 016 Memorial Hall and the Multimedia Center in 017 Morris Library. Students make an appointments by visiting www.english.udel.edu/wc/.",
+		"category": "ADVISING"
+	},
+	{
+		"question": "What are the admission requirements for the 4+1 Bachelors with Master of Science in Computer Science?",
+		"answers": "Students apply to the 4+1 program in the spring semester of their junior year, or when they have completed 75 credits toward their undergraduate degree...",
+		"category": "ADMISSIONS"
+	},
+	{
+		"question": "What is the UD policy for Leave of Absences and Parental Accomodation?",
+		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation",
+		"category": "POLICIES"
+	},
+	{
+		"question": "What  is the UD policy for Medical Leave of Absences?",
+		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation",
+		"category": "POLICIES"
+	},
+	{
+		"question": "What is the UD policy for personal leave of absence?",
+		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation",
+		"category": "POLICIES"
+	},
+	{
+		"question": "What is the UD policy for professional leave of absence?",
+		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation",
+		"category": "POLICIES"
+	},
+	{
+		"question": "What is the process to withdraw from the university (terminate their associations for the university and specific degree program)?",
+		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#resignation-from-the-university",
+		"category": "POLICIES"
+	},
+	{
+		"question": "This summer I will be hired as a Graduate Reserach Assistant. What course do I need to register for?",
+		"answers": "Students who are supported by the University as research assistants during the summer months are required to be registered in at least three credits during the 7 1/2 week summer session...",
+		"category": "RESEARCH_AND_GRADUATION"
+	},
+	{
+		"question": "I'm a doctoral student and my status has not changed to Sustaining. When will my status change to Sustaining?",
+		"answers": "Once a graduate student who is completing a thesis, dissertation, or education leadership portfolio has completed registration in all required course credits...",
+		"category": "POLICIES"
+	},
+	{
+		"question": "What are the Ph.D. dissertation submission deadlines?",
+		"answers": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/",
+		"category": "RESEARCH_AND_GRADUATION"
+	},
+	{
+		"question": "Where can I find information about the Dual program Computer Science (MBA/MS)?",
+		"answers": " https://lerner.udel.edu/programs/dual-degrees/mba-m-s-computer-science/",
+		"category": "ADMISSIONS"
+	},
+	{
+		"question": "I would like to request information about the program",
+		"answers": "https://grad-admissions.udel.edu/register/?id=d08da75b-f7f0-4da3-b415-faf3f45d29db#",
+		"category": "ADMISSIONS"
+	},
+	{
+		"question": "Where do I search for information about courses, including locations, times, and seat availability?",
+		"answers": "https://udapps.nss.udel.edu/CoursesSearch/",
+		"category": "REGISTRATION"
+	},
+	{
+		"question": "What are the Masters Thesis submission deadlines?",
+		"answers": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/",
+		"category": "RESEARCH_AND_GRADUATION"
+	},
+	{
+		"question": "What are the Admission to Doctoral Candidacy submission deadlines?",
+		"answers": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/",
+		"category": "RESEARCH_AND_GRADUATION"
+	},
+	{
+		"question": "What are the Application for Advanced Degree submission deadlines?",
+		"answers": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/",
+		"category": "RESEARCH_AND_GRADUATION"
+	},
+	{
+		"question": "I plan to defend my Dissertation. What form should I bring at the time of the defense to acquire committee member signatures?",
+		"answers": "Certification of Doctoral Dissertation Defense https://www.udel.edu/content/dam/udelImages/grad-college/graduate-college-pdfs/certification_doctoral_dissertation.pdf",
+		"category": "RESEARCH_AND_GRADUATION"
+	},
+	{
+		"question": "When are graduate degrees awarded?",
+		"answers": "Graduate degrees are awarded at the end of fall, winter, spring and summer sessions. You must file your Application for Advanced Degree with the Graduate College to start the process.",
+		"category": "RESEARCH_AND_GRADUATION"
+	},
+	{
+		"question": "I'm a doctoral student and defended. Where do I send the signed Certification of Doctoral Defense Form? ",
+		"answers": "Send completed form to GradStudentForms@udel.edu and copy the CIS Graduate Academic Advisor II on the email.",
+		"category": "RESEARCH_AND_GRADUATION"
+	},
+	{
+		"question": "How can I obtain the Department Chair signature for my forms?",
+		"answers": "Contact  the CIS Graduate Academic Advisor II",
+		"category": "RESEARCH_AND_GRADUATION"
+	},
+	{
+		"question": "How  do I reserve room 201 in Smith Hall?",
+		"answers": "Contact the CIS Graduate Academic Advisor II ",
+		"category": "FACILITIES"
+	}
+]

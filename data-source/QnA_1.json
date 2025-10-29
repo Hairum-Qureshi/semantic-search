@@ -1,254 +1,317 @@
 [
 	{
 		"question": "How do I request an admissions deferment when I cannot attend during my expected enrollment term?",
-		"answers": "Submit your admission deferral request to the CIS Graduate Academic Advisor II for review."
+		"answers": "Submit your admission deferral request to the CIS Graduate Academic Advisor II for review.",
+		"category": "ADMISSIONS"
 	},
 	{
-		"question": "When does course registration open for the Fall, Spring, Summer and Winter semester?",
-		"answers": "Refer to academic calendar for most up-to-date deadlines."
+		"question": "When does course registration open for the Fall, Spring, Summer, and Winter semesters?",
+		"answers": "Refer to the academic calendar for the most up-to-date deadlines.",
+		"category": "REGISTRATION"
 	},
 	{
 		"question": "What should I do if the course I want is full?",
-		"answers": "Add to waitlist."
+		"answers": "Add yourself to the waitlist.",
+		"category": "REGISTRATION"
 	},
 	{
 		"question": "What is the process for auditing a course?",
-		"answers": "Please check with the academic advisor for details on course auditing."
+		"answers": "Check with the academic advisor for details on course auditing.",
+		"category": "REGISTRATION"
 	},
 	{
-		"question": "Do I need special permission to register for CISC890 NEW Graduate Colloquium?",
-		"answers": "Yes, contact CIS Graduate Academic Advisor II to register for course."
+		"question": "Do I need special permission to register for CISC 890 Graduate Colloquium?",
+		"answers": "Yes, contact the CIS Graduate Academic Advisor II to register for the course.",
+		"category": "REGISTRATION"
 	},
 	{
-		"question": "When do I enroll in CIS 890 NEW Graduate Colloquium?",
-		"answers": "During your first semester of enrollment in the CIS program."
+		"question": "When do I enroll in CISC 890 Graduate Colloquium?",
+		"answers": "During your first semester of enrollment in the CIS program.",
+		"category": "REGISTRATION"
 	},
 	{
 		"question": "What is the deadline to add or drop a course without penalties?",
-		"answers": "Review the academic calendar for accurate dates."
+		"answers": "Review the academic calendar for accurate dates.",
+		"category": "REGISTRATION"
 	},
 	{
 		"question": "How can I check if a specific course is available?",
-		"answers": "Check the course catalog or the WebReg system."
+		"answers": "Check the course catalog or the WebReg system.",
+		"category": "REGISTRATION"
 	},
 	{
-		"question": "How can I check if a course is offered during Fall, Spring, Summer and Winter Semester?",
-		"answers": "Consult the academic calendar or course catalog."
+		"question": "How can I check if a course is offered during Fall, Spring, Summer, and Winter semesters?",
+		"answers": "Consult the academic calendar or course catalog.",
+		"category": "REGISTRATION"
 	},
 	{
-		"question": "How many credits are considered full time as a graduate student?",
-		"answers": "Full-time status typically requires 9 or more credits per semester.  Refer to UD policy https://catalog.udel.edu/content.php?catoid=30&navoid=3805#registration-requirements"
+		"question": "How many credits are considered full-time as a graduate student?",
+		"answers": "Full-time status typically requires 9 or more credits per semester. Refer to UD policy: https://catalog.udel.edu/content.php?catoid=30&navoid=3805#registration-requirements",
+		"category": "REGISTRATION"
 	},
 	{
-		"question": "How many credits are considered part time as a graduate student?",
-		"answers": "Part-time status is generally considered to be less than 9 credits per semester. Refer to Ud policy https://catalog.udel.edu/content.php?catoid=30&navoid=3805#registration-requirements"
+		"question": "How many credits are considered part-time as a graduate student?",
+		"answers": "Part-time status is generally considered to be fewer than 9 credits per semester. Refer to UD policy: https://catalog.udel.edu/content.php?catoid=30&navoid=3805#registration-requirements",
+		"category": "REGISTRATION"
 	},
 	{
 		"question": "Where do I go to obtain my UD student ID?",
-		"answers": "Visit the student services center on campus."
+		"answers": "Visit the Student Services Center on campus.",
+		"category": "STUDENT_SERVICES"
 	},
 	{
 		"question": "How do I set up my UD email address?",
-		"answers": "Follow instructions provided by the IT department during orientation."
+		"answers": "Follow instructions provided by the IT department during orientation.",
+		"category": "STUDENT_SERVICES"
 	},
 	{
 		"question": "What is the process for changing my academic advisor if needed?",
-		"answers": "Contact the graduate academic advisor for guidance."
+		"answers": "Contact the graduate academic advisor for guidance.",
+		"category": "ADVISING"
 	},
 	{
 		"question": "How can I schedule a meeting with my faculty advisor?",
-		"answers": "Email or use the advisor's scheduling tool."
+		"answers": "Email your advisor or use their scheduling tool.",
+		"category": "ADVISING"
 	},
 	{
-		"question": "I\u2019m struggling in one of my courses. Where can I go for tutoring?",
-		"answers": "Visit the tutoring center or the academic resource center."
+		"question": "I'm struggling in one of my courses. Where can I go for tutoring?",
+		"answers": "Visit the tutoring center or the academic resource center.",
+		"category": "ADVISING"
 	},
 	{
 		"question": "How can I get involved in student organizations or clubs on campus?",
-		"answers": "Visit the student union or the university's club directory."
+		"answers": "Visit the student union or the university's club directory.",
+		"category": "CAMPUS_LIFE"
 	},
 	{
-		"question": "Where can I find information about off campus housing or finding a roommate?",
-		"answers": "Check the university's off-campus housing resources."
+		"question": "Where can I find information about off-campus housing or finding a roommate?",
+		"answers": "Check the university's off-campus housing resources.",
+		"category": "CAMPUS_LIFE"
 	},
 	{
 		"question": "What are the deadlines to apply for graduation?",
-		"answers": "Review graduation application deadlines on the registrar\u2019s website."
+		"answers": "Review graduation application deadlines on the Registrar's website.",
+		"category": "RESEARCH_AND_GRADUATION"
 	},
 	{
 		"question": "Where do I go for resume preparation?",
-		"answers": "Visit the career services center on campus."
+		"answers": "Visit the Career Services Center on campus.",
+		"category": "CAMPUS_LIFE"
 	},
 	{
 		"question": "Where do I go for interview preparation?",
-		"answers": "Career services can provide mock interviews and resources."
+		"answers": "Career Services can provide mock interviews and resources.",
+		"category": "CAMPUS_LIFE"
 	},
 	{
 		"question": "What kind of events are happening on campus?",
-		"answers": "Check Perkins Student Center website."
+		"answers": "Check the Perkins Student Center website.",
+		"category": "CAMPUS_LIFE"
 	},
 	{
 		"question": "Where do I go to check my student account?",
-		"answers": "Log into the student portal to access your account."
+		"answers": "Log into the student portal to access your account.",
+		"category": "FINANCES"
 	},
 	{
 		"question": "Where do I go to access my student billing?",
-		"answers": "Use the student portal to view your billing information."
+		"answers": "Use the student portal to view your billing information.",
+		"category": "FINANCES"
 	},
 	{
 		"question": "Where do I go to access my financial aid?",
-		"answers": "Financial aid details can be found in the student financial services section."
+		"answers": "Financial aid details can be found in the Student Financial Services section.",
+		"category": "FINANCES"
 	},
 	{
-		"question": "What type of aids are available?",
-		"answers": "University Funding, Loans, Outside Funding."
+		"question": "What types of aid are available?",
+		"answers": "University funding, loans, and outside funding.",
+		"category": "FINANCES"
 	},
 	{
 		"question": "Is the UD Wellbeing fee mandatory?",
-		"answers": "The UD Wellbeing Fee is a mandatory University fee."
+		"answers": "Yes, the UD Wellbeing Fee is mandatory.",
+		"category": "FINANCES"
 	},
 	{
-		"question": "What type of scholarships are available to CIS Master\u2019s students?",
-		"answers": "CIS department does not offer scholarships for Master's students. Refer to other funding options."
+		"question": "What types of scholarships are available to CIS Master's students?",
+		"answers": "The CIS department does not offer scholarships for Master's students. Refer to other funding options.",
+		"category": "FINANCES"
 	},
 	{
-		"question": "What type of scholarships/funding are available to CIS PhD students?",
-		"answers": "Reach out to faculty members for potential PhD funding opportunities."
+		"question": "What types of scholarships or funding are available to CIS Ph.D. students?",
+		"answers": "Reach out to faculty members for potential Ph.D. funding opportunities.",
+		"category": "FINANCES"
 	},
 	{
-		"question": "Where do I go for mental health services, counseling, health services on campus?",
-		"answers": "Visit the student health and counseling center."
+		"question": "Where do I go for mental health services, counseling, or health services on campus?",
+		"answers": "Visit the Student Health and Counseling Center.",
+		"category": "STUDENT_SERVICES"
 	},
 	{
 		"question": "What are my options for public transportation around campus and the surrounding city?",
-		"answers": "Public transportation options include buses and campus shuttles."
+		"answers": "Public transportation options include buses and campus shuttles.",
+		"category": "STUDENT_SERVICES"
 	},
 	{
 		"question": "Where can I find current campus news announcements?",
-		"answers": "Subscribe to UDaily for the latest news."
+		"answers": "Subscribe to UDaily for the latest news.",
+		"category": "STUDENT_SERVICES"
 	},
 	{
 		"question": "Are there engineering clubs for women on campus?",
-		"answers": "Explore the Women in Engineering clubs via the campus website."
+		"answers": "Explore the Women in Engineering clubs via the campus website.",
+		"category": "CAMPUS_LIFE"
 	},
 	{
-		"question": "I\u2019m having trouble enrolling in a course?",
-		"answers": "View the WebReg demo or contact the registrar."
+		"question": "I'm having trouble enrolling in a course.",
+		"answers": "View the WebReg demo or contact the Registrar.",
+		"category": "REGISTRATION"
 	},
 	{
-		"question": "Where do I go to register for health/dental insurance?",
-		"answers": "Find details on the University health plan web page."
+		"question": "Where do I go to register for health or dental insurance?",
+		"answers": "Find details on the university health plan webpage.",
+		"category": "STUDENT_SERVICES"
 	},
 	{
 		"question": "Where can I dine on campus?",
-		"answers": "Refer to the campus dining map for options."
+		"answers": "Refer to the campus dining map for options.",
+		"category": "FACILITIES"
 	},
 	{
 		"question": "Where is the library located?",
-		"answers": "The library is centrally located on campus."
+		"answers": "The library is centrally located on campus.",
+		"category": "STUDENT_SERVICES"
 	},
 	{
 		"question": "Where can I find a map of the campus to locate classroom buildings?",
-		"answers": "Access campus maps online or through the university app."
+		"answers": "Access campus maps online or through the university app.",
+		"category": "FACILITIES"
 	},
 	{
 		"question": "What are the hours and name of the campus gym?",
-		"answers": "Check the gym\u2019s website for hours and facilities."
+		"answers": "Check the gym's website for hours and facilities.",
+		"category": "FACILITIES"
 	},
 	{
 		"question": "How do I obtain a parking permit?",
-		"answers": "Apply for a parking permit online or at the parking office."
+		"answers": "Apply for a parking permit online or at the Parking Office.",
+		"category": "FACILITIES"
 	},
 	{
 		"question": "What safety services are available on campus?",
-		"answers": "Contact University Campus Police for safety services."
+		"answers": "Contact University Campus Police for safety services.",
+		"category": "STUDENT_SERVICES"
 	},
 	{
-		"question": "What is the CIS PhD Study Plan?",
-		"answers": "1) Find a research advisor within 1 year, 2) Pass the preliminary exam within 2 years, 3) Enter Candidacy within 4 years, 4) Defend thesis within 5-7 years."
+		"question": "What is the CIS Ph.D. Study Plan?",
+		"answers": "1) Find a research advisor within 1 year. 2) Pass the preliminary exam within 2 years. 3) Enter candidacy within 4 years. 4) Defend the thesis within 5–7 years.",
+		"category": "RESEARCH_AND_GRADUATION"
 	},
 	{
-		"question": "Where can I find assistsance to improve my writing skills?",
-		"answers": "The Writing Center is located in 016 Memorial Hall and the Multimedia Center in 017 Morris Library. Students make an appointments by visiting www.english.udel.edu/wc/."
+		"question": "Where can I find assistance to improve my writing skills?",
+		"answers": "The Writing Center is located in 016 Memorial Hall and the Multimedia Center in 017 Morris Library. Students can make appointments by visiting www.english.udel.edu/wc/.",
+		"category": "ADVISING"
 	},
 	{
 		"question": "What are the admission requirements for the 4+1 Bachelors with Master of Science in Computer Science?",
-		"answers": "Students apply to the 4+1 program in the spring semester of their junior year, or when they have completed 75 credits toward their undergraduate degree.  Minimum grade average of 3.2 in the major field of study and an overall cumulative index of 3.0 is required.  Scholarly competence in the following areas of computer science and mathematics, described as follows:\r\n\r\nstructured high-level programming (for example, CISC106, CISC 108, or equivalent),\r\nsystems programming (for example, CISC210 or equivalent),\r\ndata structures (for example, CISC 220 or equivalent),\r\ncalculus (for example, MATH 241 or equivalent) or statistics (for example, STAT200 or MATH 205 or equivalent) or discrete math (for example MATH 210 or equivalent)."
+		"answers": "Students apply to the 4+1 program in the spring semester of their junior year, or when they have completed 75 credits toward their undergraduate degree. A minimum GPA of 3.2 in the major and an overall GPA of 3.0 are required.",
+		"category": "ADMISSIONS"
 	},
 	{
-		"question": "What is the UD policy for Leave of Absences and Parental Accomodation?",
-		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation"
+		"question": "What is the UD policy for Leave of Absences and Parental Accommodation?",
+		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation",
+		"category": "POLICIES"
 	},
 	{
-		"question": "What  is the UD policy for Medical Leave of Absences?",
-		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation"
+		"question": "What is the UD policy for Medical Leave of Absence?",
+		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation",
+		"category": "POLICIES"
 	},
 	{
 		"question": "What is the UD policy for personal leave of absence?",
-		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation"
+		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation",
+		"category": "POLICIES"
 	},
 	{
 		"question": "What is the UD policy for professional leave of absence?",
-		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation"
+		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#leave-of-absence-and-parental-accommodation",
+		"category": "POLICIES"
 	},
 	{
-		"question": "What is the process to withdraw from the university (terminate their associations for the university and specific degree program)?",
-		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#resignation-from-the-university"
+		"question": "What is the process to withdraw from the university (terminate their association with the university and specific degree program)?",
+		"answers": "https://catalog.udel.edu/content.php?catoid=30&navoid=3805#resignation-from-the-university",
+		"category": "POLICIES"
 	},
 	{
-		"question": "This summer I will be hired as a Graduate Reserach Assistant. What course do I need to register for?",
-		"answers": "Students who are supported by the University as research assistants during the summer months are required to be registered in at least three credits during the 7 1/2 week summer session under the following guidelines: the work must be related to the student\u2019s degree program, and the funding amount must meet the minimum requirement per month in June and July. Students may register in 868-800 (research), 869 (thesis), 964 (pre-candidacy study), 969 (dissertation), 864 (internship), sustaining, or a regular graduate course needed for the degree and offered in the 7 1/2 week summer session. Except for 864, 869, or regular courses, all courses are graded pass/fail."
+		"question": "This summer I will be hired as a Graduate Research Assistant. What course do I need to register for?",
+		"answers": "Students supported by the university as research assistants during the summer months must register for at least three credits during the 7½-week summer session. The work must be related to the student’s degree program, and the funding amount must meet the minimum requirement. Students may register in research, thesis, pre-candidacy study, dissertation, internship, sustaining, or a regular graduate course offered in the 7½-week session.",
+		"category": "RESEARCH_AND_GRADUATION"
 	},
 	{
 		"question": "I'm a doctoral student and my status has not changed to Sustaining. When will my status change to Sustaining?",
-		"answers": "Once a graduate student who is completing a thesis, dissertation, or education leadership portfolio has completed registration in all required course credits needed for the degree (including the registration of six credits of Master\u2019s thesis [869] or nine to twelve credits of dissertation [969]) and all other degree requirements except the submission of the thesis, dissertation, or education leadership portfolio) the student must maintain matriculation in the degree program during the fall and spring semesters by registering for either Master\u2019s Sustaining: Thesis (UNIV 899) or Doctoral Sustaining (UNIV 999). All students, including sustaining students, must be registered in the semester in which the degree is officially awarded. Sustaining registration is required for summer and winter session only if the degree is awarded at the conclusion of the summer or winter session. Students in sustaining status are considered full-time."
+		"answers": "Once a graduate student has completed registration in all required course credits needed for the degree and all other degree requirements except submission of the thesis, dissertation, or portfolio, they must maintain matriculation in the program by registering for sustaining credits (UNIV 899 or UNIV 999).",
+		"category": "POLICIES"
 	},
 	{
 		"question": "What are the Ph.D. dissertation submission deadlines?",
-		"answers": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/"
+		"answers": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/",
+		"category": "RESEARCH_AND_GRADUATION"
 	},
 	{
 		"question": "Where can I find information about the Dual program Computer Science (MBA/MS)?",
-		"answers": " https://lerner.udel.edu/programs/dual-degrees/mba-m-s-computer-science/"
+		"answers": "https://lerner.udel.edu/programs/dual-degrees/mba-m-s-computer-science/",
+		"category": "ADMISSIONS"
 	},
 	{
-		"question": "I would like to request information about the program",
-		"answers": "https://grad-admissions.udel.edu/register/?id=d08da75b-f7f0-4da3-b415-faf3f45d29db#"
+		"question": "I would like to request information about the program.",
+		"answers": "https://grad-admissions.udel.edu/register/?id=d08da75b-f7f0-4da3-b415-faf3f45d29db#",
+		"category": "ADMISSIONS"
 	},
 	{
 		"question": "Where do I search for information about courses, including locations, times, and seat availability?",
-		"answers": "https://udapps.nss.udel.edu/CoursesSearch/"
+		"answers": "https://udapps.nss.udel.edu/CoursesSearch/",
+		"category": "REGISTRATION"
 	},
 	{
-		"question": "What are the Masters Thesis submission deadlines?",
-		"answers": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/"
+		"question": "What are the Master's thesis submission deadlines?",
+		"answers": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/",
+		"category": "RESEARCH_AND_GRADUATION"
 	},
 	{
 		"question": "What are the Admission to Doctoral Candidacy submission deadlines?",
-		"answers": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/"
+		"answers": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/",
+		"category": "RESEARCH_AND_GRADUATION"
 	},
 	{
 		"question": "What are the Application for Advanced Degree submission deadlines?",
-		"answers": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/"
+		"answers": "https://www.udel.edu/academics/colleges/grad/current-students/academic-support/steps-to-graduation/",
+		"category": "RESEARCH_AND_GRADUATION"
 	},
 	{
-		"question": "I plan to defend my Dissertation. What form should I bring at the time of the defense to acquire committee member signatures?",
-		"answers": "Certification of Doctoral Dissertation Defense   https://www.udel.edu/content/dam/udelImages/grad-college/graduate-college-pdfs/certification_doctoral_dissertation.pdf"
+		"question": "I plan to defend my dissertation. What form should I bring at the time of the defense to acquire committee member signatures?",
+		"answers": "Certification of Doctoral Dissertation Defense: https://www.udel.edu/content/dam/udelImages/grad-college/graduate-college-pdfs/certification_doctoral_dissertation.pdf",
+		"category": "RESEARCH_AND_GRADUATION"
 	},
 	{
 		"question": "When are graduate degrees awarded?",
-		"answers": "Graduate degrees are awarded at the end of fall, winter, spring and summer sessions. You must file your Application for Advanced Degree with the Graduate College to start the process."
+		"answers": "Graduate degrees are awarded at the end of the fall, winter, spring, and summer sessions. You must file your Application for Advanced Degree with the Graduate College to start the process.",
+		"category": "RESEARCH_AND_GRADUATION"
 	},
 	{
-		"question": "I'm a doctoral student and defended. Where do I send the signed Certification of Doctoral Defense Form? ",
-		"answers": "Send to copleted form to GradStudentForms@udel.edu  and copy the CIS Graduate Academic Advisor II on the email."
+		"question": "I'm a doctoral student and defended. Where do I send the signed Certification of Doctoral Defense Form?",
+		"answers": "Send the completed form to GradStudentForms@udel.edu and copy the CIS Graduate Academic Advisor II on the email.",
+		"category": "RESEARCH_AND_GRADUATION"
 	},
 	{
 		"question": "How can I obtain the Department Chair signature for my forms?",
-		"answers": "Contact  the CIS Graduate Academic Advisor II"
+		"answers": "Contact the CIS Graduate Academic Advisor II.",
+		"category": "OTHER"
 	},
 	{
-		"question": "How  do I reserve room 201 in Smith Hall?",
-		"answers": "Contact the CIS Graduate Academic Advisor II "
+		"question": "How do I reserve Room 201 in Smith Hall?",
+		"answers": "Contact the CIS Graduate Academic Advisor II.",
+		"category": "FACILITIES"
 	}
 ]
