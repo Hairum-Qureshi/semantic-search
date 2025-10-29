@@ -3,6 +3,7 @@ import chalk from "chalk";
 import { DataArray, pipeline } from "@xenova/transformers";
 import joinedQnA from "./data-source/QnA_Joined.json";
 import similarity from "compute-cosine-similarity";
+import startRedis from "./redis-init";
 
 dotenv.config();
 
@@ -77,29 +78,27 @@ async function main() {
 	for (const qna of joinedQnA) {
 		const embedding = await getQuestionEmbedding(extractor, qna.Question);
 		const qnaID = qna.id;
-		dataSourceHashMap.set(qnaID, {
-			...qna
-		});
+		dataSourceHashMap.set(qnaID, qna);
 		vectorEmbeddingHashmap.set(qnaID, embedding);
 	}
 
 	const placeholderUserQuestion =
-		"can you tell me about ud's scholarship opportunities?";
+		"what are the steps for setting up my UD email address?";
 
 	const userQueryEmbedVector = await getQuestionEmbedding(
 		extractor,
 		placeholderUserQuestion
 	);
 
-	const res = useCosineSimilarity(userQueryEmbedVector, vectorEmbeddingHashmap);
-	console.log(">>", res);
-
-	console.log(">", dataSourceHashMap.get(res.id));
+	// const res = useCosineSimilarity(userQueryEmbedVector, vectorEmbeddingHashmap);
+	// console.log(">>", res);
+	// console.log(">", dataSourceHashMap.get(res.id));
 }
 main();
+startRedis;
 
 console.log(chalk.yellowBright("Script is running"));
-console.log(chalk.greenBright("Thinking..."));
+// console.log(chalk.greenBright("Thinking..."));
 
 // const model = new ChatGoogleGenerativeAI({
 // 	model: "gemini-2.5-flash",
