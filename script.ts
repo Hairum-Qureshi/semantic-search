@@ -3,27 +3,11 @@ import chalk from "chalk";
 import { DataArray, pipeline } from "@xenova/transformers";
 import joinedQnA from "./data-source/QnA_Joined.json";
 import similarity from "compute-cosine-similarity";
-import startRedis from "./redis-init";
+import { startRedis, redis } from "./redis-init";
 
 dotenv.config();
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY!;
-
-// enum Category {
-// 	REGISTRATION = "REGISTRATION",
-// 	FACILITIES = "FACILITIES",
-// 	GRADUATION = "GRADUATION",
-// 	DEGREE_REQUIREMENTS = "DEGREE_REQUIREMENTS",
-// 	ACADEMIC_POLICIES = "ACADEMIC_POLICIES",
-// 	FUNDING_AND_TRAVEL = "FUNDING_AND_TRAVEL",
-// 	IMMIGRATION = "IMMIGRATION",
-// 	CHANGE_OF_PROGRAM = "CHANGE_OF_PROGRAM",
-// 	SEMINARS = "SEMINARS",
-// 	BREADTH_REQUIREMENTS = "BREADTH_REQUIREMENTS",
-// 	ADVISING = "ADVISING",
-// 	LEAVE_OF_ABSENCE = "LEAVE_OF_ABSENCE",
-// 	OTHER = "OTHER"
-// }
 
 interface QandA {
 	id: number;
@@ -67,7 +51,7 @@ async function getQuestionEmbedding(
 }
 
 async function main() {
-	const dataSourceHashMap: Map<number, QandA> = new Map();
+	// const dataSourceHashMap: Map<number, QandA> = new Map();
 	const vectorEmbeddingHashmap: Map<number, DataArray> = new Map();
 
 	const extractor = await pipeline(
@@ -75,24 +59,31 @@ async function main() {
 		"Xenova/all-MiniLM-L6-v2"
 	);
 
+	const existingKeys = await redis.hKeys("Q&As");
+
 	for (const qna of joinedQnA) {
 		const embedding = await getQuestionEmbedding(extractor, qna.Question);
 		const qnaID = qna.id;
-		dataSourceHashMap.set(qnaID, qna);
+		// dataSourceHashMap.set(qnaID, qna);
+
+		if (existingKeys.length !== joinedQnA.length) {
+			redis.hSet("Q&As", qna.id, JSON.stringify(qna));
+		}
+
 		vectorEmbeddingHashmap.set(qnaID, embedding);
 	}
 
-	const placeholderUserQuestion =
-		"what are the steps for setting up my UD email address?";
+	const placeholderUserQuestion = "how can i change my ud email?";
 
 	const userQueryEmbedVector = await getQuestionEmbedding(
 		extractor,
 		placeholderUserQuestion
 	);
 
-	// const res = useCosineSimilarity(userQueryEmbedVector, vectorEmbeddingHashmap);
-	// console.log(">>", res);
-	// console.log(">", dataSourceHashMap.get(res.id));
+	const res = useCosineSimilarity(userQueryEmbedVector, vectorEmbeddingHashmap);
+	console.log(res);
+	const fromRedis = (await redis.hGet("Q&As", res.id.toString())) as string;
+	console.log(">", JSON.parse(fromRedis));
 }
 main();
 startRedis;
