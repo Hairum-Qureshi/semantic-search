@@ -4,17 +4,22 @@ import { DataArray, pipeline } from "@xenova/transformers";
 import joinedQnA from "./data-source/QnA_Joined.json";
 import similarity from "compute-cosine-similarity";
 import { startRedis, redis } from "./redis-init";
+import readline from "readline";
 
 dotenv.config();
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY!;
+function input(promptText: string): Promise<string> {
+	const rl = readline.createInterface({
+		input: process.stdin,
+		output: process.stdout
+	});
 
-interface QandA {
-	id: number;
-	Question: string;
-	Answer: string;
-	Category: string;
-	Source?: string;
+	return new Promise(resolve => {
+		rl.question(promptText, answer => {
+			rl.close();
+			resolve(answer);
+		});
+	});
 }
 
 function useCosineSimilarity(
@@ -51,7 +56,6 @@ async function getQuestionEmbedding(
 }
 
 async function main() {
-	// const dataSourceHashMap: Map<number, QandA> = new Map();
 	const vectorEmbeddingHashmap: Map<number, DataArray> = new Map();
 
 	const extractor = await pipeline(
@@ -64,7 +68,6 @@ async function main() {
 	for (const qna of joinedQnA) {
 		const embedding = await getQuestionEmbedding(extractor, qna.Question);
 		const qnaID = qna.id;
-		// dataSourceHashMap.set(qnaID, qna);
 
 		if (existingKeys.length !== joinedQnA.length) {
 			redis.hSet("Q&As", qna.id, JSON.stringify(qna));
@@ -73,26 +76,37 @@ async function main() {
 		vectorEmbeddingHashmap.set(qnaID, embedding);
 	}
 
-	const placeholderUserQuestion = "how can i change my ud email?";
+	let userQuestion = await input("Enter your question: ");
 
-	const userQueryEmbedVector = await getQuestionEmbedding(
-		extractor,
-		placeholderUserQuestion
-	);
+	while (userQuestion !== "q") {
+		const userQueryEmbedVector = await getQuestionEmbedding(
+			extractor,
+			userQuestion
+		);
 
-	const res = useCosineSimilarity(userQueryEmbedVector, vectorEmbeddingHashmap);
-	console.log(res);
-	const fromRedis = (await redis.hGet("Q&As", res.id.toString())) as string;
-	console.log(">", JSON.parse(fromRedis));
+		const res = useCosineSimilarity(
+			userQueryEmbedVector,
+			vectorEmbeddingHashmap
+		);
+		console.log(res);
+		const fromRedis = (await redis.hGet("Q&As", res.id.toString())) as string;
+
+		const threshold = 0.75;
+		if (res.highestScore < threshold) {
+			console.log(
+				chalk.cyanBright("Sorry, I couldn't find an answer for that.")
+			);
+			// return;
+		}
+        else {
+            console.log(">", JSON.parse(fromRedis));
+        }
+		
+
+		userQuestion = await input("Enter your question (or enter 'q' to quit): ");
+	}
 }
 main();
 startRedis;
 
 console.log(chalk.yellowBright("Script is running"));
-// console.log(chalk.greenBright("Thinking..."));
-
-// const model = new ChatGoogleGenerativeAI({
-// 	model: "gemini-2.5-flash",
-// 	maxOutputTokens: 2048,
-// 	apiKey: GEMINI_API_KEY
-// });
