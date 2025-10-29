@@ -1,235 +1,282 @@
 [
 	{
+		"id": 64,
 		"Question": "How do I request an admissions deferment when I cannot attend during my expected enrollment term?",
 		"Answer": "Submit your admission deferral request to the CIS Graduate Academic Advisor II for review.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 65,
 		"Question": "When does course registration open for the Fall, Spring, Summer, and Winter semesters?",
 		"Answer": "Refer to the academic calendar for the most up-to-date deadlines.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 66,
 		"Question": "What should I do if the course I want is full?",
 		"Answer": "Add yourself to the waitlist.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 67,
 		"Question": "What is the process for auditing a course?",
 		"Answer": "Check with the academic advisor for details on course auditing.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 68,
 		"Question": "Do I need special permission to register for CISC 890 Graduate Colloquium?",
 		"Answer": "Yes, contact the CIS Graduate Academic Advisor II to register for the course.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 69,
 		"Question": "When do I enroll in CISC 890 Graduate Colloquium?",
 		"Answer": "During your first semester of enrollment in the CIS program.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 70,
 		"Question": "What is the deadline to add or drop a course without penalties?",
 		"Answer": "Review the academic calendar for accurate dates.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 71,
 		"Question": "How can I check if a specific course is available?",
 		"Answer": "Check the course catalog or the WebReg system.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 72,
 		"Question": "How can I check if a course is offered during Fall, Spring, Summer, and Winter semesters?",
 		"Answer": "Consult the academic calendar or course catalog.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 73,
 		"Question": "How many credits are considered full-time as a graduate student?",
 		"Answer": "Full-time status typically requires 9 or more credits per semester. Refer to UD policy: https://catalog.udel.edu/content.php?catoid=30&navoid=3805#registration-requirements",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 74,
 		"Question": "How many credits are considered part-time as a graduate student?",
 		"Answer": "Part-time status is generally considered to be fewer than 9 credits per semester. Refer to UD policy: https://catalog.udel.edu/content.php?catoid=30&navoid=3805#registration-requirements",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 75,
 		"Question": "Where do I go to obtain my UD student ID?",
 		"Answer": "Visit the Student Services Center on campus.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 76,
 		"Question": "How do I set up my UD email address?",
 		"Answer": "Follow instructions provided by the IT department during orientation.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 77,
 		"Question": "What is the process for changing my academic advisor if needed?",
 		"Answer": "Contact the graduate academic advisor for guidance.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 78,
 		"Question": "How can I schedule a meeting with my faculty advisor?",
 		"Answer": "Email your advisor or use their scheduling tool.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 79,
 		"Question": "I'm struggling in one of my courses. Where can I go for tutoring?",
 		"Answer": "Visit the tutoring center or the academic resource center.",
 		"Category": "SOCIAL_ADJUSTMENT"
 	},
 	{
+		"id": 80,
 		"Question": "How can I get involved in student organizations or clubs on campus?",
 		"Answer": "Visit the student union or the university's club directory.",
 		"Category": "SOCIAL_ADJUSTMENT"
 	},
 	{
+		"id": 81,
 		"Question": "Where can I find information about off-campus housing or finding a roommate?",
 		"Answer": "Check the university's off-campus housing resources.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 82,
 		"Question": "What are the deadlines to apply for graduation?",
 		"Answer": "Review graduation application deadlines on the Registrar's website.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 83,
 		"Question": "Where do I go for resume preparation?",
 		"Answer": "Visit the Career Services Center on campus.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 84,
 		"Question": "Where do I go for interview preparation?",
 		"Answer": "Career Services can provide mock interviews and resources.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 85,
 		"Question": "What kind of events are happening on campus?",
 		"Answer": "Check the Perkins Student Center website.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 86,
 		"Question": "Where do I go to check my student account?",
 		"Answer": "Log into the student portal to access your account.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 87,
 		"Question": "Where do I go to access my student billing?",
 		"Answer": "Use the student portal to view your billing information.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 88,
 		"Question": "Where do I go to access my financial aid?",
 		"Answer": "Financial aid details can be found in the Student Financial Services section.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 89,
 		"Question": "What types of aid are available?",
 		"Answer": "University funding, loans, and outside funding.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 90,
 		"Question": "Is the UD Wellbeing fee mandatory?",
 		"Answer": "Yes, the UD Wellbeing Fee is mandatory.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 91,
 		"Question": "What types of scholarships are available to CIS Master's students?",
 		"Answer": "The CIS department does not offer scholarships for Master's students. Refer to other funding options.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 92,
 		"Question": "What types of scholarships or funding are available to CIS Ph.D. students?",
 		"Answer": "Reach out to faculty members for potential Ph.D. funding opportunities.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 93,
 		"Question": "Where do I go for mental health services, counseling, or health services on campus?",
 		"Answer": "Visit the Student Health and Counseling Center.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 94,
 		"Question": "What are my options for public transportation around campus and the surrounding city?",
 		"Answer": "Public transportation options include buses and campus shuttles.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 95,
 		"Question": "Where can I find current campus news announcements?",
 		"Answer": "Subscribe to UDaily for the latest news.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 96,
 		"Question": "Are there engineering clubs for women on campus?",
 		"Answer": "Explore the Women in Engineering clubs via the campus website.",
 		"Category": "SOCIAL_ADJUSTMENT"
 	},
 	{
+		"id": 97,
 		"Question": "I'm having trouble enrolling in a course.",
 		"Answer": "View the WebReg demo or contact the Registrar.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 98,
 		"Question": "Where do I go to register for health or dental insurance?",
 		"Answer": "Find details on the university health plan webpage.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 99,
 		"Question": "Where can I dine on campus?",
 		"Answer": "Refer to the campus dining map for options.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 100,
 		"Question": "Where is the library located?",
 		"Answer": "The library is centrally located on campus.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 101,
 		"Question": "Where can I find a map of the campus to locate classroom buildings?",
 		"Answer": "Access campus maps online or through the university app.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 102,
 		"Question": "What are the hours and name of the campus gym?",
 		"Answer": "Check the gym's website for hours and facilities.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 103,
 		"Question": "How do I obtain a parking permit?",
 		"Answer": "Apply for a parking permit online or at the Parking Office.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 104,
 		"Question": "What safety services are available on campus?",
 		"Answer": "Contact University Campus Police for safety services.",
 		"Category": "ACCLIMATION_TO_CAMPUS"
 	},
 	{
+		"id": 105,
 		"Question": "What is the CIS Ph.D. Study Plan?",
 		"Answer": "1) Find a research advisor within 1 year. 2) Pass the preliminary exam within 2 years. 3) Enter candidacy within 4 years. 4) Defend the thesis within 5–7 years.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 106,
 		"Question": "Where can I find assistance to improve my writing skills?",
 		"Answer": "The Writing Center is located in 016 Memorial Hall and the Multimedia Center in 017 Morris Library. Students can make appointments by visiting www.english.udel.edu/wc/.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 107,
 		"Question": "I plan to defend my dissertation. What form should I bring at the time of the defense to acquire committee member signatures?",
 		"Answer": "Certification of Doctoral Dissertation Defense: https://www.udel.edu/content/dam/udelImages/grad-college/graduate-college-pdfs/certification_doctoral_dissertation.pdf",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 108,
 		"Question": "I'm a doctoral student and defended. Where do I send the signed Certification of Doctoral Defense Form?",
 		"Answer": "Send the completed form to GradStudentForms@udel.edu and copy the CIS Graduate Academic Advisor II on the email.",
 		"Category": "ADVISING"
 	},
 	{
+		"id": 109,
 		"Question": "How can I obtain the Department Chair's signature for my forms?",
 		"Answer": "Contact the CIS Graduate Academic Advisor II.",
 		"Category": "OTHER"
 	},
 	{
+		"id": 110,
 		"Question": "How do I reserve Room 201 in Smith Hall?",
 		"Answer": "Contact the CIS Graduate Academic Advisor II.",
 		"Category": "OTHER"
