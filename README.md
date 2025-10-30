@@ -29,7 +29,6 @@ It reads a JSON dataset of question–answer pairs, generates vector embeddings 
 ├── node_modules/               # Installed dependencies
 ├── .env                        # Environment variables (e.g., Redis config)
 ├── .gitignore                  # Ignored files and directories
-├── dump.rdb                    # Redis snapshot file (can be ignored in Git)
 ├── package.json                # Project dependencies and scripts
 ├── package-lock.json           # Dependency lock file
 ├── README.md                   # Project documentation
