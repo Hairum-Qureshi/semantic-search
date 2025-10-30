@@ -20,18 +20,22 @@ It reads a JSON dataset of question–answer pairs, generates vector embeddings 
 
 ```bash
 .
-├── src/
-│   ├── data-source/
-│   │   └── QnA_Joined.json        # JSON dataset of Q&A pairs
-│   ├── redis-init.ts              # Redis initialization and connection logic
-│   ├── main.ts                    # Main script with semantic search logic
-│   └── types.d.ts                 # Optional: type definitions (if any)
-│
-├── .env                           # Environment variables (e.g., Redis config)
-├── .gitignore                     # Ignored files and directories
-├── package.json                   # Project dependencies and scripts
-├── tsconfig.json                  # TypeScript configuration
-└── README.md                      # Project documentation
+├── data-source/
+│   ├── QnA_1.json              # JSON dataset of Q&A pairs (part 1)
+│   ├── QnA_2.json              # JSON dataset of Q&A pairs (part 2)
+│   ├── QnA_3.json              # JSON dataset of Q&A pairs (part 3)
+│   ├── QnA_4.json              # JSON dataset of Q&A pairs (part 4)
+│   └── QnA_Joined.json         # Combined Q&A dataset used for semantic search
+├── node_modules/               # Installed dependencies
+├── .env                        # Environment variables (e.g., Redis config)
+├── .gitignore                  # Ignored files and directories
+├── dump.rdb                    # Redis snapshot file (can be ignored in Git)
+├── package.json                # Project dependencies and scripts
+├── package-lock.json           # Dependency lock file
+├── README.md                   # Project documentation
+├── redis-init.ts               # Redis initialization and connection logic
+├── script.ts                   # Main script with semantic search logic
+└── tsconfig.json               # TypeScript configuration
 ```
 
 ---
