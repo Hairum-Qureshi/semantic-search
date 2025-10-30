@@ -9,6 +9,7 @@ import readline from "readline";
 dotenv.config();
 
 function input(promptText: string): Promise<string> {
+	// wrapper function around Node.js' terminal stdio reader
 	const rl = readline.createInterface({
 		input: process.stdin,
 		output: process.stdout
@@ -94,7 +95,7 @@ async function main() {
 		console.log(res);
 		const fromRedis = (await redis.hGet("Q&As", res.id.toString())) as string;
 
-		const threshold = 0.75;
+		const threshold = 0.75; // -1 <= n <= 1
 		if (res.highestScore < threshold) {
 			console.log(
 				chalk.cyanBright("Sorry, I couldn't find an answer for that.")
