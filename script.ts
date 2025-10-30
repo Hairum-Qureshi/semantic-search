@@ -30,7 +30,9 @@ function useCosineSimilarity(
 	let highestScore = -1;
 	for (const [key] of vectorEmbeddingHashmap) {
 		const vecA = Array.from(userQuestionVector as Iterable<number>);
-		const vecB = Array.from(vectorEmbeddingHashmap.get(Number(key))!);
+		const vecB = Array.from(
+			vectorEmbeddingHashmap.get(Number(key))! as Iterable<number>
+		);
 
 		const s: number = similarity(vecA, vecB) as number;
 
@@ -58,6 +60,7 @@ async function getQuestionEmbedding(
 async function main() {
 	const vectorEmbeddingHashmap: Map<number, DataArray> = new Map();
 
+	// Helpful: https://www.datastax.com/blog/how-to-create-vector-embeddings-in-node-js
 	const extractor = await pipeline(
 		"feature-extraction",
 		"Xenova/all-MiniLM-L6-v2"
@@ -97,14 +100,14 @@ async function main() {
 				chalk.cyanBright("Sorry, I couldn't find an answer for that.")
 			);
 			// return;
+		} else {
+			console.log(">", JSON.parse(fromRedis));
 		}
-        else {
-            console.log(">", JSON.parse(fromRedis));
-        }
-		
 
 		userQuestion = await input("Enter your question (or enter 'q' to quit): ");
 	}
+
+	console.log("Successfully quit");
 }
 main();
 startRedis;

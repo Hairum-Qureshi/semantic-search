@@ -17,4 +17,4 @@ const startRedis = (async () => {
 	console.log(chalk.yellowBright("Connected to", chalk.redBright("Redis")));
 })();
 
-export default startRedis;
+export { startRedis, redis };
